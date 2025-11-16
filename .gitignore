@@ -2,9 +2,5 @@ eyes/assets/
 yawn/assets/
 eyes/assets/*
 yawn/assets/*
-yawn/models/
-yawn/models/*
-eyes/models/
-eyes/models/*
 
 **/.ipynb_checkpoints/
