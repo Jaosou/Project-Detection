@@ -44,4 +44,7 @@ conda activate (name)
  whereis cuda
 
 
+#Activate ENV (Window)
+env-process\Scripts\activate.bat
+
 

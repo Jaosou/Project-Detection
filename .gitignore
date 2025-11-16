@@ -4,3 +4,5 @@ eyes/assets/*
 yawn/assets/*
 
 **/.ipynb_checkpoints/
+
+env-process/
